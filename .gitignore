@@ -2,3 +2,4 @@
 !*.fs
 !*.fsproj
 !*.md
+.fake
